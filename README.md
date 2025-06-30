@@ -6,6 +6,7 @@ Make sure your git supports submodules. Otherwise, this repo may not check out
 properly.
 
 Clone this repo with `git clone --recurse-submodules <repo-url>`.
+If somehow submodules are not fetched run `git submodule update`.
 
 ## Installation
 For now this project contains some tools to set up work environment.
