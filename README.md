@@ -7,8 +7,8 @@ properly.
 
 Clone this repo with `git clone --recurse-submodules <repo-url>`.
 
-## Usage
+## Installation
 For now this project contains some tools to set up work environment.
 
-Add `source ./source-all.sh` line to `~/.profile` at your system to use these
+Add `source <repo dir>/sourceAll.sh` line to `~/.profile` at your system to use these
 features for your commandline.
